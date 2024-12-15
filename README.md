@@ -48,14 +48,6 @@ python app.py
 ```
 
 ---
-## Results
-
-### Example Output
-
-Here is an example result of the Underwater Plastic Detection System:
-
-   ![Detection 1](Results/validation/val_batch1_pred.jpg)
-
 
 ## **License**  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  

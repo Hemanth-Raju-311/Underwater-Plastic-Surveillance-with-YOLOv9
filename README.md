@@ -1,8 +1,7 @@
 # **Underwater Plastic Detection Using YOLOv9**  
 ![Project Logo](Assets/Logo/logo.jpg)
 ---
-A real-time underwater plastic detection system utilizing YOLOv9 and live video feeds from the IP Webcam app. This project aims to enhance marine conservation efforts by accurately identifying plastic waste in underwater environments.  
-
+*A comprehensive solution for detecting underwater plastic using YOLOv9 and real-time video feeds from an IP webcam.*
 ---
 
 ## **About the Project**  
@@ -15,6 +14,7 @@ Underwater plastic waste is a significant environmental issue impacting marine l
 - **Scalable Solution**: Deployable on various hardware platforms, including edge devices.  
 
 ---
+You can either upload the images directly for detection through your device or you can do the below stuff for real time detection through your mobile
 
 ## **Steps to Set Up the IP Webcam App**  
 
@@ -48,6 +48,14 @@ python app.py
 ```
 
 ---
+## Results
+
+### Example Output
+
+Here are some example result of the Underwater Plastic Detection System:
+
+   ![Detection 1](Results/validation/val_batch1_pred.jpg)
+
 
 ## **License**  
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  

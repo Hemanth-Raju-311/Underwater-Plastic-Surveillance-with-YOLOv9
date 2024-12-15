@@ -1,5 +1,6 @@
 # **Underwater Plastic Detection Using YOLOv9**  
 ![Project Logo](Assets/Logo/logo.jpg)
+---
 A real-time underwater plastic detection system utilizing YOLOv9 and live video feeds from the IP Webcam app. This project aims to enhance marine conservation efforts by accurately identifying plastic waste in underwater environments.  
 
 ---

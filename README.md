@@ -56,3 +56,25 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Acknowledgments**  
 This project is inspired by ongoing research in marine conservation and deep learning for real-time object detection.  
+
+---
+
+## Future Enhancements
+
+- **Dataset Expansion:**  
+  Expand the dataset to include a larger variety of underwater plastic debris images captured under diverse conditions. This will improve the robustness and generalizability of the model.
+
+- **Increased Training Epochs:**  
+  Train the model for more epochs to achieve better convergence and optimize performance while addressing overfitting.
+
+- **Object Tracking:**  
+  Incorporate object tracking mechanisms to enable better monitoring of detected objects over time.
+
+- **Multi-Class Detection:**  
+  Extend the system to detect and classify multiple types of marine debris beyond plastics.
+
+- **Edge Device Optimization:**  
+  Improve the system's performance for deployment on low-power edge devices, ensuring efficient real-time processing.
+
+
+

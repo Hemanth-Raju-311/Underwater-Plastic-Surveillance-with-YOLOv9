@@ -52,7 +52,7 @@ python app.py
 
 ### Example Output
 
-Here are some example result of the Underwater Plastic Detection System:
+Here is an example result of the Underwater Plastic Detection System:
 
    ![Detection 1](Results/validation/val_batch1_pred.jpg)
 

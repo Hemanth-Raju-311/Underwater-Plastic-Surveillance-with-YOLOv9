@@ -53,7 +53,11 @@ python app.py
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ---
+## **Result**  
+![Output](Results/Output.jpg)
+Well I am kinda broke, I can't dive into ocean for output. So didn't have a choice but to live feed pictures through my mobile cam.
 
+---
 ## **Acknowledgments**  
 This project is inspired by ongoing research in marine conservation and deep learning for real-time object detection.  
 
